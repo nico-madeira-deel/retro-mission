@@ -7,10 +7,10 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Spectrum Boilerplate</title>
+        <title>Retro Mission</title>
         <meta
           name="description"
-          content="Boilerplate starter project with Next and Typescript"
+          content="A board to make retrospective meetings"
         />
         <link rel="shortcut icon" href="/img/icon-512.png" />
         <link rel="apple-touch-icon" href="/img/icon-512.png" />

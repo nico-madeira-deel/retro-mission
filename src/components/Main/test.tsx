@@ -7,12 +7,10 @@ describe('<Main />', () => {
     render(<Main />)
 
     expect(
-      screen.getByRole('heading', { name: /spectrum boilerplate/i })
+      screen.getByRole('heading', { name: /retro mission/i })
     ).toBeInTheDocument()
 
-    expect(
-      screen.getByText(/starter project with next, react and typescript!/i)
-    )
+    expect(screen.getByText(/a board to make retrospective meetings/i))
   })
 
   it('should render the colors correctly', () => {

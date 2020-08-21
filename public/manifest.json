@@ -1,6 +1,6 @@
 {
-  "name": "Spectrum Boilerplate",
-  "short_name": "Spectrum",
+  "name": "Retro Mission",
+  "short_name": "Retro",
   "icons": [
     {
       "src": "/img/icon-192.png",
@@ -14,7 +14,7 @@
     }
   ],
   "background_color": "#eeaeca",
-  "description": "Starter project with Next, React and Typescript!",
+  "description": "A board to make retrospective meetings",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#eeaeca"
